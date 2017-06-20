@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function Cactus() {
   // your code goes below
 
 var answer = prompt ("What Would you like to caculate?");
@@ -23,6 +23,6 @@ alert (guess22 / guess11)
 else if (answer == "multiply") {
 var guess40 = Number(prompt('Give me the first number'));
 var guess30 = Number(prompt('Give me the second number'));
-alert (guess4 * guess3)
+alert (guess40 * guess30)
 }
 })
